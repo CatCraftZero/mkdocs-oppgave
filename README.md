@@ -2,8 +2,8 @@
 
 * Åpne ny fane
 * Skriv *youtube.com*
-* Trykk på *Enter*-knappen på tastaturet
+* Trykk på *Enter*-knappen på tastaturet  
 
 
-<p \n>Gratulerer! Du klarte det!!!</p>
+Gratulerer! Du klarte det!!!
 ![godt jobba!!!!!!!!!!!!](https://catcraftzero.github.io/mkdocs-oppgave/docs/assets/yippiee.png)
